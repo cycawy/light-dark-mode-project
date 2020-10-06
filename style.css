@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Abel&family=Arvo&family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Oswald&display=swap');
 
 :root {
   --primary-color: rgb(255, 92, 92);
@@ -58,7 +59,7 @@ h2 {
 nav {
   z-index: 10;
   position: fixed;
-  font-family: arvo, sans-serif;
+  font-family: Merriweather, sans-serif;
   font-size: 24px;
   letter-spacing: 3px;
   padding: 25px;
